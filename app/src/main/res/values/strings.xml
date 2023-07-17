@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="date">%1$s</string>
+    <string name="description">Dexcription</string>
+    <string name="name">Name</string>
+    <string name="detail_history">Detail History</string>
+    <string name="back">Back</string>
+    <string name="add_story">Add Story</string>
+    <string name="camera">Camera</string>
+    <string name="post">Post</string>
+    <string name="gallery">Gallery</string>
+    <string name="permission_failed">Permission denied!</string>
+    <string name="no_file">There is no file!</string>
+    <string name="capture">Capture</string>
+    <string name="switch_camera">Switch</string>
+    <string name="information">Information</string>
+    <string name="upload_success">Success Upload</string>
+    <string name="continue_">Continue</string>
+    <string name="upload_failed">Upload Failed</string>
+    <string name="maps">Maps</string>
+
+
+</resources>
