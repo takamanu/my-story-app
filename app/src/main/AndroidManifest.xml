@@ -25,25 +25,25 @@
         android:theme="@style/Theme.MyStory"
         tools:targetApi="31">
         <activity
-            android:name=".MapsActivity"
+            android:name=".ui.maps.MapsActivity"
             android:exported="false" />
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyBQobWPf8WyglvONc2lYAzIwUNqQsVPnYk" />
         <activity
-            android:name=".CameraActivity"
+            android:name=".ui.stories.CameraActivity"
             android:exported="false" />
         <activity
-            android:name=".AddStoryActivity"
+            android:name=".ui.stories.AddStoryActivity"
             android:exported="false" />
         <activity
-            android:name=".DetailStoryActivity"
+            android:name=".ui.stories.DetailStoryActivity"
             android:exported="false" />
         <activity
-            android:name=".auth.AuthActivity"
+            android:name=".ui.auth.AuthActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.stories.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

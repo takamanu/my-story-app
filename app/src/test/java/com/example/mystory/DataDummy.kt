@@ -1,7 +1,7 @@
 package com.example.mystory
 
-import com.example.mystory.datamodel.GetStories
-import com.example.mystory.datamodel.ListStoryItem
+import com.example.mystory.data.GetStories
+import com.example.mystory.data.ListStoryItem
 
 object DataDummy {
 

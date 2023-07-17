@@ -1,7 +1,7 @@
 package com.example.mystory.api
 
 import com.example.mystory.*
-import com.example.mystory.datamodel.*
+import com.example.mystory.data.*
 import okhttp3.MultipartBody
 import retrofit2.Call
 import retrofit2.Response

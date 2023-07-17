@@ -8,8 +8,9 @@ import androidx.paging.PagingData
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
 import androidx.recyclerview.widget.ListUpdateCallback
-import com.example.mystory.datamodel.ListStoryItem
-import com.example.mystory.repository.StoryRepository
+import com.example.mystory.data.ListStoryItem
+import com.example.mystory.ui.stories.repository.StoryRepository
+import com.example.mystory.ui.stories.StoryAdapter
 import com.example.mystory.vm.StoriesViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
