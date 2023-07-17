@@ -1,6 +1,6 @@
-# My Stories App
+# My Stories App Dicoding Submission
 
-The My Stories App is a mobile application that allows users to view, add, and connect with people who create stories.
+The My Stories App is a mobile application that allows users to view, add, and connect with people who create stories. You can use **this project for you Android Intermediate Submission as reference**.
 
 ## Features
 
